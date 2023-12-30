@@ -1,7 +1,7 @@
 # Miles To Kilometers Converter (EN)
 
 ## Description
-A simple Python application built using tkinter that allows users to convert distances from miles to kilometers and from kilometer to miles.
+A simple Python application built using tkinter that allows users to convert distances from miles to kilometers and from kilometers to miles.
 
 ## Download the Executable
 1. Download the application from [this Google Drive link](https://drive.google.com/drive/folders/1jhrsT3sMi9cXSAMidDCqYHjMsvG9iRdG?usp=sharing).
